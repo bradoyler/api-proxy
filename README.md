@@ -1,6 +1,9 @@
-api-proxy
+## API-Proxy
 =========
 
 A CORS-enabled proxy for any json api
 
-- planning to add some type of response caching
+#### Goals:
+
+- add some type of response caching
+- easy to deploy to heroku
